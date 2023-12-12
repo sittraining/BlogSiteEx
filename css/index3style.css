@@ -1,0 +1,134 @@
+#menubar ul li a{
+    text-decoration: none;
+    color: black;
+}
+#menubar ul{
+    float: right;
+}
+#menubar ul li{
+    display: inline;
+    padding-right: 50px;
+    list-style: none;
+
+}
+
+#banner img{
+    width: 100%;
+    height: 400px;
+}
+#title{
+    font-family: MV Boli;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+}
+
+#box1 {
+    width: 25%;
+    float: left;
+    margin-left: 50px;
+    margin-right: 5%;
+}
+#box1 img{
+    width: 100%;
+}
+#box1 {
+    font-family: MV Boli;
+    text-align: center;
+}
+#para {
+    border: 1px solid black;
+    font-size: 20px;
+}
+#authorname{
+    font-family: Calibri Light;
+}
+#box2 {
+    width: 33%;
+    float: left;
+}
+
+#box2 p{
+    font-family: MV Boli;
+    text-align: center;
+}
+
+#box3 {
+    width: 20%;
+    float: right;
+    margin-right: 100px;
+}
+#button {
+   clear: both;
+   border:1px solid red;
+   width: 20%;
+   margin-left: 40%;
+   border-radius: 50px;
+}
+#button p{
+    text-align: center;
+    color: red;
+}
+#intro{
+    margin-left: 7% ;
+    margin-bottom: 30px;
+}
+#intro img{
+    width: 90%;
+}
+
+#col1{
+    width: 71%;
+    float: left;
+    margin-left: 20px;
+}
+#col1 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    float: left;
+}
+
+#heading{
+    font-family: MV Boli;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+}
+#paragraph{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 16px;
+    
+}
+
+#col3{
+    width: 25%;
+    float: right;
+    border: 1px solid black;
+    margin-right: 20px;
+}
+#col3 img{
+    margin-left: 35px;
+}
+#button2{
+    border: 1px solid red;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+}
+#button2 p{
+    text-align: center;
+    color: red;
+}
+
+#icons i{
+    font-size: 30px;
+    padding: 25px;
+    margin-bottom: 200px;
+}
+#icons{
+    width: 100%;
+    clear: both;
+}
